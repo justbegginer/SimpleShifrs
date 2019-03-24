@@ -1,0 +1,11 @@
+C:\Users\unium\source\repos\ShifrChes\ShifrChes\bin\Debug\netcoreapp2.1\ShifrChes.deps.json
+C:\Users\unium\source\repos\ShifrChes\ShifrChes\bin\Debug\netcoreapp2.1\ShifrChes.runtimeconfig.json
+C:\Users\unium\source\repos\ShifrChes\ShifrChes\bin\Debug\netcoreapp2.1\ShifrChes.runtimeconfig.dev.json
+C:\Users\unium\source\repos\ShifrChes\ShifrChes\bin\Debug\netcoreapp2.1\ShifrChes.dll
+C:\Users\unium\source\repos\ShifrChes\ShifrChes\bin\Debug\netcoreapp2.1\ShifrChes.pdb
+C:\Users\unium\source\repos\ShifrChes\ShifrChes\obj\Debug\netcoreapp2.1\ShifrChes.csprojAssemblyReference.cache
+C:\Users\unium\source\repos\ShifrChes\ShifrChes\obj\Debug\netcoreapp2.1\ShifrChes.csproj.CoreCompileInputs.cache
+C:\Users\unium\source\repos\ShifrChes\ShifrChes\obj\Debug\netcoreapp2.1\ShifrChes.AssemblyInfoInputs.cache
+C:\Users\unium\source\repos\ShifrChes\ShifrChes\obj\Debug\netcoreapp2.1\ShifrChes.AssemblyInfo.cs
+C:\Users\unium\source\repos\ShifrChes\ShifrChes\obj\Debug\netcoreapp2.1\ShifrChes.dll
+C:\Users\unium\source\repos\ShifrChes\ShifrChes\obj\Debug\netcoreapp2.1\ShifrChes.pdb
